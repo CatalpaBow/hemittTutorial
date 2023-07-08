@@ -1,0 +1,6 @@
+name = "Advanced Banana Environment"
+author = "Tutorial"
+prefix = "abe"
+mainprefix = "z"
+[version]
+git_hash = 0
